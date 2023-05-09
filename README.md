@@ -1,2 +1,2 @@
-# terminal
-FINLABS Terminal Repository
+# FINLABS
+FINLABS Repository
