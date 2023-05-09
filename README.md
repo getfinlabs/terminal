@@ -1,2 +1,2 @@
-# FINLABS.IMASGLOBAL.IN
-FINLABS.IMASGLOBAL.IN Repository
+# finlabs.imasglobal.in
+finlabs.imasglobal.in Repository
